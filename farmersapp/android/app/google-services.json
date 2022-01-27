@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116171196111",
+    "project_id": "farmer-s-app-f4ff9",
+    "storage_bucket": "farmer-s-app-f4ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116171196111:android:05cd73fc331d24c5fa59ba",
+        "android_client_info": {
+          "package_name": "com.example.farmersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116171196111-it12on5lo248lifs0um9untrvm20tv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozTs9i91A230v7JMLmXXC8bN1HPxfh8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116171196111-it12on5lo248lifs0um9untrvm20tv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
